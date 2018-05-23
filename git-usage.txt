@@ -1,0 +1,15 @@
+cd ~  (go to home directory)
+cd Desktop    (go to Desktop, or any other directory of your choice)
+git clone <address of your repository> - e.g. git clone https://github.com/bxxxxxxx/Assignment1.git  (clone your repository)
+cd  <name of your repository> - e.g. cd Assignment1 (go to your repository folder)
+echo "Here you can type your README text" >> README.md  (create a file named README.md)
+Copy and paste your project files
+git init  (create an empty Git repository or reinitialize an existing one)
+git status (check the current state of the repository)
+git add .  (add all file contents to the index)
+git status
+git commit -m "Write a message about the change you made"  (record changes to the repository)
+git push origin master  (update remote refs along with associated objects)
+
+If your online repository gets changed, to pull it to our local computer use:
+git pull origin master  (fetch from your repository)
