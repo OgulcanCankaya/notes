@@ -1,0 +1,8 @@
+If you download git2go from github and get problems with make install, try these
+
+$ git checkout next
+$ git submodule update --init
+$ make install
+
+on the installation home (which is probably ~/go/src/.... )
+
