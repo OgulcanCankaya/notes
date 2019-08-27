@@ -6,3 +6,4 @@ $ make install
 
 on the installation home (which is probably ~/go/src/.... )
 
+hede hodo
