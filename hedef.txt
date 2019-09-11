@@ -2,3 +2,5 @@ allah allah
 neyse
 deneme yanılma var bu işte aslanım
 merge öncesi commit denemesi
+aynısının resetsiz hali
+aynısının resetsizi
